@@ -6,6 +6,6 @@ This is the starter code for lab 1, see [Android University Course - Lab 1](http
 
 Here's a walkthrough of implemented for lab 1:
 
-<img src='https://github.com/Beauchant/android_university_lab1/blob/main/lab1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='AndroidLab1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
